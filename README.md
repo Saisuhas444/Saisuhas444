@@ -25,7 +25,7 @@ class Saisuhas:
     name       = "Vallabhapuram Saisuhas"
     title      = "Data Scientist & Data Engineer"
     location   = "Vijayawada, Andhra Pradesh, India 🇮🇳"
-    education  = "B.Tech @ Aditya College of Engineering and Technology"
+    education  = "B.Tech CSE @ Aditya College of Engineering and Technology"
     email      = "vallabhapuramsaisuhas@gmail.com"
 
     interests  = [
@@ -110,19 +110,35 @@ class Saisuhas:
 
 ## 🚀 Featured Projects
 
-<!-- 💡 TIP: Replace the project details below with your actual projects -->
-
 <div align="center">
 
-| 🔬 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:---:|:---|:---:|:---:|
-| **💡 Project 1** | Add your project description here — what problem it solves and what it does. | Python, Pandas, ML | [GitHub](#) · [Demo](#) |
-| **📊 Project 2** | Add your project description here — what problem it solves and what it does. | SQL, Power BI, Excel | [GitHub](#) · [Demo](#) |
-| **🤖 Project 3** | Add your project description here — what problem it solves and what it does. | Scikit-learn, NumPy | [GitHub](#) · [Demo](#) |
+### 🌐 Smart Portfolio Website
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+> A personal portfolio site built with the **Django** framework that dynamically displays projects, blogs, and contact information. Features a clean, responsive UI with dynamic content management through Django's backend.
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+---
+
+### 🛒 E-Commerce Product Recommender
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+> A full-stack recommendation system built on the **MERN stack** that intelligently suggests products based on user behavior and past purchase history. Designed to enhance user experience and drive engagement in e-commerce platforms.
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
-> 💡 **Tip:** Pin your best repositories on your GitHub profile for maximum visibility!
+> 💡 **Tip:** Replace the `#` links above with your actual GitHub repo and live demo URLs for maximum impact!
 
 ---
 
@@ -149,15 +165,17 @@ class Saisuhas:
 
 ## 🏆 Achievements & Certifications
 
-<!-- 💡 TIP: Add your real certifications and achievements here -->
+<div align="center">
 
-- 🎓 **B.Tech in [Your Branch]** — Aditya College of Engineering and Technology *(In Progress)*
-- 📜 **[Certification Name]** — [Issuing Platform, e.g., Coursera / Google / IBM] *(Year)*
-- 📜 **[Certification Name]** — [Issuing Platform] *(Year)*
-- 🏅 **[Hackathon / Competition Achievement]** — [Event Name] *(Year)*
-- ⭐ **[Any Academic / Project Achievement]**
+| 🏅 Badge | 📜 Certification / Achievement | 🏛️ Issuer |
+|:---:|:---|:---:|
+| 🎓 | **B.Tech in Computer Science Engineering** — *(In Progress)* | Aditya College of Engineering & Technology |
+| ☁️ | **Google Cloud Career Launchpad — Cloud Engineer Track** | Google Cloud |
+| 🐍 | **Python for Data Science & Machine Learning** | UniAthena |
+| 🗄️ | **Database and SQL** | Infosys |
+| 📊 | **Power BI for Beginners** | Simplilearn |
 
-> 💡 **Tip:** Add certifications from platforms like Coursera, Google, IBM, Microsoft, or NPTEL for maximum recruiter impact!
+</div>
 
 ---
 
