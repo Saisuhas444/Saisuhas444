@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- ─── ANIMATED TYPING BANNER ─── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Saisuhas+👋;Data+Scientist+%7C+Data+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Saisuhas+👋;Data+Engineer;AI+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions+🚀)](https://git.io/typing-svg)
 
 <!-- ─── PROFILE VIEWS & FOLLOWERS ─── -->
 <p>
@@ -67,7 +67,8 @@ class Saisuhas:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine learning-3776AB?style=for-the-badge&logo=ML&logoColor=white" />
 </p>
 
 <!-- ─── DATA SCIENCE & ANALYTICS ─── -->
