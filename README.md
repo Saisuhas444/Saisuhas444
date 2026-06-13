@@ -23,7 +23,7 @@
 ```python
 class Saisuhas:
     name       = "Vallabhapuram Saisuhas"
-    title      = "Data Scientist & Data Engineer"
+    title      = "Data Engineer"
     location   = "Vijayawada, Andhra Pradesh, India 🇮🇳"
     education  = "B.Tech CSE @ Aditya College of Engineering and Technology"
     email      = "vallabhapuramsaisuhas@gmail.com"
