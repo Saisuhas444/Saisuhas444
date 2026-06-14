@@ -140,28 +140,8 @@ class Saisuhas:
 
 > 💡 **Tip:** Replace the `#` links above with your actual GitHub repo and live demo URLs for maximum impact!
 
----
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<!-- ─── GITHUB STATS CARD ─── -->
-<img src="https://github-readme-stats.vercel.app/api?username=Saisuhas444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF" height="180" />
-
-<!-- ─── TOP LANGUAGES CARD ─── -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisuhas444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" height="180" />
-
-</div>
-
-<div align="center">
-
-<!-- ─── STREAK STATS ─── -->
-<img src="https://streak-stats.demolab.com?user=Saisuhas444&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
