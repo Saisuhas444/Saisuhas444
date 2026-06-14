@@ -4,9 +4,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<!-- ─── ANIMATED TYPING BANNER ─── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Saisuhas+👋;SoftwareDevelopmentEngineer|DataEngineer|FullStackDeveloper;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Solutions+🚀)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Saisuhas+👋;Software+Development+Engineer+🧑‍💻;Data+Engineer+📊;Full+Stack+Developer+💻;Python+%7C+SQL+%7C+Cloud+%7C+System+Design+⚙️;Building+Scalable+Data-Driven+Applications+🚀)](https://git.io/typing-svg))
 
 <!-- ─── PROFILE VIEWS & FOLLOWERS ─── -->
 <p>
